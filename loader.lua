@@ -18,6 +18,12 @@ local Games = {
         ScriptUrl = "https://raw.githubusercontent.com/getscript-vn/XenoxVN/refs/heads/main/vungtaucitypvp.lua",
         Icon = "rbxassetid://6031075930"
     },
+                {
+        Name = "Viet Nam City",
+        PlaceId = 108950611147994,
+        ScriptUrl = "https://raw.githubusercontent.com/getscript-vn/XenoxVN/refs/heads/main/vietnamcity.lua",
+        Icon = "rbxassetid://6031075930"
+    },
     {
         Name = "Vietnam I Love",
         PlaceId = 83641551582603,
