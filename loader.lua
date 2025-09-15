@@ -8,7 +8,7 @@ local Games = {
     },
         {
         Name = "Cộng đồng Việt Nam PVP",
-        PlaceId = 181925629613,
+        PlaceId = 94941998730756,
         ScriptUrl = "https://raw.githubusercontent.com/getscript-vn/XenoxVN/refs/heads/main/cdvnpvp.lua",
         Icon = "rbxassetid://6031075930"
     },
