@@ -12,13 +12,19 @@ local Games = {
         ScriptUrl = "https://raw.githubusercontent.com/getscript-vn/XenoxVN/refs/heads/main/cdvnpvp.lua",
         Icon = "rbxassetid://6031075930"
     },
-            {
+    {
         Name = "Vũng Tàu City",
         PlaceId = 72565292869142,
         ScriptUrl = "https://raw.githubusercontent.com/getscript-vn/XenoxVN/refs/heads/main/vungtaucitypvp.lua",
         Icon = "rbxassetid://6031075930"
     },
-                {
+    {
+        Name = "Ha Noi City",
+        PlaceId = 136246937930591,
+        ScriptUrl = "https://raw.githubusercontent.com/getscript-vn/XenoxVN/refs/heads/main/hanoicitypvp.lua",
+        Icon = "rbxassetid://6031075930"
+    },
+    {
         Name = "Viet Nam City",
         PlaceId = 108950611147994,
         ScriptUrl = "https://raw.githubusercontent.com/getscript-vn/XenoxVN/refs/heads/main/vietnamcity.lua",
