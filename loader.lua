@@ -7,6 +7,12 @@ local Games = {
         Icon = "rbxassetid://6031075930"
     },
         {
+        Name = "Đường Phố Việt Nam",
+        PlaceId = 132484137087513,
+        ScriptUrl = "https://raw.githubusercontent.com/getscript-vn/XenoxVN/refs/heads/main/duongphovn.lua",
+        Icon = "rbxassetid://6031075930"
+    },
+        {
         Name = "Cộng đồng Việt Nam PVP",
         PlaceId = 94941998730756,
         ScriptUrl = "https://raw.githubusercontent.com/getscript-vn/XenoxVN/refs/heads/main/cdvnpvp.lua",
